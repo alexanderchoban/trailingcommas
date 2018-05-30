@@ -2,7 +2,7 @@
 
 This website was made to show the benefits of using trailing commas!
 
-### What is a Trailing Comma
+### What is a Trailing?
 
 A trailing comma is when you use a comma at the end of the last line of an object or array when programming. Sometimes it is called a "final comma." Trailing commas have always been allowed in JavaScript.
 
