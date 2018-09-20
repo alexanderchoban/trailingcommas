@@ -9,7 +9,8 @@ A trailing comma is when you use a comma at the end of the last line of an objec
 ![Trailing comma example.](images/trailing_comma_example.png)
 
 ### Why should I use trailing commas?
-1. Clean diffs in code merges with less code changed. Also makes reading pull requests easy.
+1. Cleaner git diffs in code merges. Also makes reading pull requests easy.
+1. Transpilers like Babel will remove trailing commas in the transpiled code, which means no problems in older browsers.
 1. You don't have to add more commas when you add more code! Frustrated with going up a line after adding a new element, save your future-self the trouble by adding it ahead of time.
 
 Here is a merge with a trailing comma:
